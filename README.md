@@ -1,4 +1,4 @@
-# Quantum Cyber Security Tool - AI Agent Instructions
+# Quantum Cyber Security Tool 
 ## Project Overview
 A full-stack cybersecurity demonstrator that simulates **Blue Team** (defense), **Red Team** (offense), and **Quantum Computing** threat detection. The backend is a FastAPI server; the frontend is React + Vite with Tailwind CSS.
 
